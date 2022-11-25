@@ -1,4 +1,4 @@
-g<?php
+<?php
     session_start();
     require_once('dataset.php');
     
