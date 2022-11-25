@@ -26,7 +26,7 @@
             </div>            
         </div>
         <hr>
-        <h3>Product Successfully Added to the Cart, what do you want to do next?</h3>
+        <h3>Product Successfully Added to the Cart, what do you want to do next??</h3>
         <a href="cart.php" class="btn btn-dark btn-lg"><i class="fa fa-shopping-cart"></i> View Cart</a>
         <a href="index.php" class="btn btn-danger btn-lg"><i class="fa fa-shopping-bag"></i> Continue Shopping</a>
     </div>
